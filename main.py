@@ -13,7 +13,7 @@ from requests.exceptions import ReadTimeout, ConnectionError
 
 # Load configuration
 CONFIG_FILE = 'config.json'
-ORIGINAL_BGMI_PATH = '/workspaces/venom-V5 [CODESPACES:STUDIOUS MEMORY]/bgmi'      #ADD YOUR FILES PATH HERE 
+ORIGINAL_BGMI_PATH = '/workspaces/VENOM-V5 [CODESPACES:STUDIOUS MEMORY]/bgmi'      #ADD YOUR FILES PATH HERE 
 ORIGINAL_SAHIL_PATH = '/workspaces/rvenom-V5-Testing/bgmi2'    #ADD YOUR FILES PATH HERE 
 
 def update_proxy():    #AUTOMATICALLY CHANGES YOUR IP AND SAVES YOU FROM SUSPEND OF GITHUB ACCOUNT AND ALSO CHANGES YOUR IP EVERY SECOND
